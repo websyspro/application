@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "17dfbe341eaaad2e6374cc2c9320cb8c",
+    "content-hash": "b804994dcab9db8d4a18ff1bcc443077",
     "packages": [
         {
             "name": "websyspro/devtools",
-            "version": "1.0.161",
+            "version": "1.0.162",
             "source": {
                 "type": "git",
                 "url": "https://github.com/websyspro/devtools.git",
-                "reference": "4c62ac846dce2e7920ce920ef960a938d73b822d"
+                "reference": "13344b00fbb81991ddbbed96406db572940a1845"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/websyspro/devtools/zipball/4c62ac846dce2e7920ce920ef960a938d73b822d",
-                "reference": "4c62ac846dce2e7920ce920ef960a938d73b822d",
+                "url": "https://api.github.com/repos/websyspro/devtools/zipball/13344b00fbb81991ddbbed96406db572940a1845",
+                "reference": "13344b00fbb81991ddbbed96406db572940a1845",
                 "shasum": ""
             },
             "require": {
@@ -48,22 +48,22 @@
             "description": "Set of features for hot reloads during development",
             "support": {
                 "issues": "https://github.com/websyspro/devtools/issues",
-                "source": "https://github.com/websyspro/devtools/tree/1.0.161"
+                "source": "https://github.com/websyspro/devtools/tree/1.0.162"
             },
-            "time": "2026-09-18T21:30:39+00:00"
+            "time": "2026-09-25T20:08:35+00:00"
         },
         {
             "name": "websyspro/elements",
-            "version": "1.0.74",
+            "version": "1.0.75",
             "source": {
                 "type": "git",
                 "url": "https://github.com/websyspro/elements.git",
-                "reference": "42c3649eefa02f3c97555e301e685d3e06b42051"
+                "reference": "d9726d7c324607f471d2ae68b789b7900f65363f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/websyspro/elements/zipball/42c3649eefa02f3c97555e301e685d3e06b42051",
-                "reference": "42c3649eefa02f3c97555e301e685d3e06b42051",
+                "url": "https://api.github.com/repos/websyspro/elements/zipball/d9726d7c324607f471d2ae68b789b7900f65363f",
+                "reference": "d9726d7c324607f471d2ae68b789b7900f65363f",
                 "shasum": ""
             },
             "require": {
@@ -94,22 +94,22 @@
             "description": "PHP library for dynamic DOM element creation with support for attributes, nesting and HTML rendering",
             "support": {
                 "issues": "https://github.com/websyspro/elements/issues",
-                "source": "https://github.com/websyspro/elements/tree/1.0.74"
+                "source": "https://github.com/websyspro/elements/tree/1.0.75"
             },
-            "time": "2026-09-18T21:31:13+00:00"
+            "time": "2026-09-25T20:09:45+00:00"
         },
         {
             "name": "websyspro/logger",
-            "version": "1.0.39",
+            "version": "1.0.40",
             "source": {
                 "type": "git",
                 "url": "https://github.com/websyspro/logger.git",
-                "reference": "6b269a6269043eb60a188056490556153bf77bdb"
+                "reference": "ded84a71ddf189b9d70dc21cb68eff7090b2632c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/websyspro/logger/zipball/6b269a6269043eb60a188056490556153bf77bdb",
-                "reference": "6b269a6269043eb60a188056490556153bf77bdb",
+                "url": "https://api.github.com/repos/websyspro/logger/zipball/ded84a71ddf189b9d70dc21cb68eff7090b2632c",
+                "reference": "ded84a71ddf189b9d70dc21cb68eff7090b2632c",
                 "shasum": ""
             },
             "require": {
@@ -137,22 +137,22 @@
             "description": "Library for logs in server api",
             "support": {
                 "issues": "https://github.com/websyspro/logger/issues",
-                "source": "https://github.com/websyspro/logger/tree/1.0.39"
+                "source": "https://github.com/websyspro/logger/tree/1.0.40"
             },
-            "time": "2026-09-01T21:43:04+00:00"
+            "time": "2026-09-25T20:10:15+00:00"
         },
         {
             "name": "websyspro/package",
-            "version": "1.0.84",
+            "version": "1.0.85",
             "source": {
                 "type": "git",
                 "url": "https://github.com/websyspro/package.git",
-                "reference": "9bfc28d32a20e84a9b663c74c50ac093a7d712ba"
+                "reference": "a1e58ae212aac2ac6432aa8c1341240b321ce893"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/websyspro/package/zipball/9bfc28d32a20e84a9b663c74c50ac093a7d712ba",
-                "reference": "9bfc28d32a20e84a9b663c74c50ac093a7d712ba",
+                "url": "https://api.github.com/repos/websyspro/package/zipball/a1e58ae212aac2ac6432aa8c1341240b321ce893",
+                "reference": "a1e58ae212aac2ac6432aa8c1341240b321ce893",
                 "shasum": ""
             },
             "bin": [
@@ -177,22 +177,22 @@
             "description": "Version Management",
             "support": {
                 "issues": "https://github.com/websyspro/package/issues",
-                "source": "https://github.com/websyspro/package/tree/1.0.84"
+                "source": "https://github.com/websyspro/package/tree/1.0.85"
             },
-            "time": "2026-09-18T13:34:52+00:00"
+            "time": "2026-09-25T20:10:44+00:00"
         },
         {
             "name": "websyspro/utils",
-            "version": "1.0.13",
+            "version": "1.0.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/websyspro/utils.git",
-                "reference": "b76a59b3d7960a150652f049ac8d92925db8a032"
+                "reference": "5ef71c076bd7cad021a928eef79fb854b7e3f858"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/websyspro/utils/zipball/b76a59b3d7960a150652f049ac8d92925db8a032",
-                "reference": "b76a59b3d7960a150652f049ac8d92925db8a032",
+                "url": "https://api.github.com/repos/websyspro/utils/zipball/5ef71c076bd7cad021a928eef79fb854b7e3f858",
+                "reference": "5ef71c076bd7cad021a928eef79fb854b7e3f858",
                 "shasum": ""
             },
             "require": {
@@ -217,22 +217,22 @@
             "description": "Set of features for front-end and back-end development",
             "support": {
                 "issues": "https://github.com/websyspro/utils/issues",
-                "source": "https://github.com/websyspro/utils/tree/1.0.13"
+                "source": "https://github.com/websyspro/utils/tree/1.0.14"
             },
-            "time": "2026-08-14T18:48:06+00:00"
+            "time": "2026-09-25T20:11:56+00:00"
         },
         {
             "name": "websyspro/wpengine",
-            "version": "1.0.12",
+            "version": "1.0.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/websyspro/wpengine.git",
-                "reference": "16f74b498df0a3a291e7c1737f431baac99f6289"
+                "reference": "ff3ba7afbf0ff07bd73221d0eb251679a5870022"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/websyspro/wpengine/zipball/16f74b498df0a3a291e7c1737f431baac99f6289",
-                "reference": "16f74b498df0a3a291e7c1737f431baac99f6289",
+                "url": "https://api.github.com/repos/websyspro/wpengine/zipball/ff3ba7afbf0ff07bd73221d0eb251679a5870022",
+                "reference": "ff3ba7afbf0ff07bd73221d0eb251679a5870022",
                 "shasum": ""
             },
             "require": {
@@ -263,9 +263,9 @@
             "description": "WordPress runtime installer for Composer-based projects",
             "support": {
                 "issues": "https://github.com/websyspro/wpengine/issues",
-                "source": "https://github.com/websyspro/wpengine/tree/1.0.12"
+                "source": "https://github.com/websyspro/wpengine/tree/1.0.13"
             },
-            "time": "2026-09-18T21:31:53+00:00"
+            "time": "2026-09-25T20:12:20+00:00"
         }
     ],
     "packages-dev": [],
